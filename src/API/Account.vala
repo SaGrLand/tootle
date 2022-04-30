@@ -6,10 +6,10 @@ public class Tootle.API.Account : Entity, Widgetizable {
     public string? _display_name = null;
     public string display_name {
         set {
-            this._display_name = value;
+            this.a_display_name = value;
         }
     	get {
-    		return (_display_name == null || _display_name == "") ? username : _display_name;
+    		return (a_display_name == null || a_display_name == "") ? username : a_display_name;
     	}
     }
     public string note { get; set; }
