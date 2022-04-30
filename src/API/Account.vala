@@ -3,7 +3,7 @@ public class Tootle.API.Account : Entity, Widgetizable {
     public string id { get; set; }
     public string username { get; set; }
     public string acct { get; set; }
-    public string? _display_name = null;
+    public string? a_display_name = null;
     public string display_name {
         set {
             this.a_display_name = value;
