@@ -33,15 +33,8 @@ Simple [Mastodon](https://github.com/tootsuite/mastodon) client for Linux
 3. Run `install.sh` in the project directory. The app will launch automatically on success.
 
 
-### Contributing
-Please consider donating with [LiberaPay](https://liberapay.com/bleakgrey/) to keep the developer happy.
-
-<a href="https://liberapay.com/bleakgrey/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
-
-You can always help by reporting bugs, submitting pull requests, and suggesting ideas.
-
-
 ### Credits
+* Forked from https://github.com/bleakgrey/tootle
 * Icon design by [Tobias Bernard](https://github.com/bertob)
 * German translation by [@koyuawsmbrtn](https://github.com/koyuawsmbrtn)
 * Spanish translation by [@oscfdezdz](https://github.com/oscfdezdz)
