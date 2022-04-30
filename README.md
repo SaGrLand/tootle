@@ -3,12 +3,6 @@ Simple [Mastodon](https://github.com/tootsuite/mastodon) client for Linux
 
 ![Screenshot](https://raw.githubusercontent.com/bleakgrey/tootle/master/data/screenshot1.png)
 
-
-### Installation
-
-<a href='https://flathub.org/apps/details/com.github.bleakgrey.tootle'><img height='51' alt='Download on Flathub' src='https://flathub.org/assets/badges/flathub-badge-en.png'/></a>
-
-
 ### Building From Source
 
 1. Make sure you have these dependencies:
