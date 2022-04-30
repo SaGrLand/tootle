@@ -26,8 +26,11 @@ Simple [Mastodon](https://github.com/tootsuite/mastodon) client for Linux
     libadwaita-1.0-dev | 1.0.0-alpha2 | Will be attempted to install automatically if not present.
     libsecret-1-dev | 0.20 | 
     
+2. For Fedora 36:
 
-2. Run `install.sh` in the project directory. The app will launch automatically on success.
+    dnf install make gcc cmake meson vala libadwaita-devel gtk4-devel libsecret-devel glib-devel json-devel libgee-devel libsoup-devel libgee-devel libxml2-devel libsoup-devel json-glib-devel
+
+3. Run `install.sh` in the project directory. The app will launch automatically on success.
 
 
 ### Contributing
